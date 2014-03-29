@@ -1,0 +1,26 @@
+{
+  "name": "Glados",
+  "version": "0.1.0",
+  "description": "IRC bot that hooks into HakrTracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HakrLabs/Glados.git"
+  },
+  "keywords": [
+    "irc",
+    "hakrtracker"
+  ],
+  "author": "Daniel Grove <danny@drgrovellc.com>",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/HakrLabs/Glados/issues"
+  },
+  "homepage": "https://github.com/HakrLabs/Glados",
+  "dependencies": {
+    "irc": "^0.3.6"
+  }
+}
