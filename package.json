@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/HakrLabs/Glados",
   "dependencies": {
-    "irc": "^0.3.6"
+    "irc": "^0.3.6",
+    "forecast": "^0.1.1",
+    "reminder": "^0.1.1",
+    "geocoder": "^0.1.0"
   }
 }
